@@ -139,5 +139,10 @@
       "imageUrl": "https://images.unsplash.com/photo-1760160741796-a451ad3245a2",
       "duration": 5000
     }
-  ]
+  ],
+  "dailyUpdate": {
+    "id": "1",
+    "text": "working on a new project 🚀",
+    "contextInput": "At Office"
+  }
 }
