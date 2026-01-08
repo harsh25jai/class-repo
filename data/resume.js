@@ -43,7 +43,8 @@
     },
     {
       "id": "6",
-      "name": "GraphQL"
+      "name": "GraphQL",
+      "iconUrl": "https://graphql.org/icon.svg"
     }
   ],
   "experience": [
