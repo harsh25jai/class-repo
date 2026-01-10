@@ -4,47 +4,96 @@
     "bio": "Senior Software Engineer | React Native Enthusiast ⚛️ | Building scalable apps 🚀",
     "coverPhoto": "https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
     "profilePhoto": "https://avatars.githubusercontent.com/u/1?v=4",
-    "livesIn": "Bangalore, India",
-    "from": "Mumbai, India",
+    "livesIn": "Bangalore, Karnataka, India",
+    "from": "Indore, Madhya Pradesh, India",
     "worksAt": "Ace Turtle Pvt. Ltd.",
     "studiedAt": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
-    "joinedDate": "December 2020",
-    "followers": 1234,
+    "joinedDate": "March 2020",
     "email": "harsh.jaiswal@example.com",
-    "phone": "+91 98765 43210",
+    "phone": "+91 7771844337",
     "linkedin": "linkedin.com/in/harshjaiswal"
   },
   "skills": [
     {
       "id": "1",
-      "name": "React Native",
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+      "name": "Full Stack Development",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2721/2721296.png"
     },
     {
       "id": "2",
+      "name": "JavaScript",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+    },
+    {
+      "id": "3",
       "name": "TypeScript",
       "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"
     },
     {
-      "id": "3",
-      "name": "JavaScript",
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/480px-JavaScript-logo.png"
+      "id": "4",
+      "name": "React Native",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
     },
     {
-      "id": "4",
+      "id": "5",
+      "name": "Python",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+    },
+    {
+      "id": "6",
+      "name": "REST APIs",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/2165/2165004.png"
+    },
+    {
+      "id": "7",
+      "name": "System Design",
+      "iconUrl": "https://img.freepik.com/premium-vector/setting-system-logo-design-icon-bass_766448-66.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Microservices",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/6357/6357632.png"
+    },
+    {
+      "id": "10",
+      "name": "Android",
+      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/330px-Android_Studio_icon_%282023%29.svg.png"
+    },
+    {
+      "id": "11",
+      "name": "Xcode",
+      "iconUrl": "https://icon.icepanel.io/Technology/svg/Xcode.svg"
+    },
+    {
+      "id": "12",
+      "name": "Jest",
+      "iconUrl": "https://www.svgrepo.com/show/373701/jest-snapshot.svg"
+    },
+    {
+      "id": "13",
+      "name": "Detox",
+      "iconUrl": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*a-ah6_a_1zgtNyLS"
+    },
+    {
+      "id": "14",
+      "name": "Code Reviews",
+      "iconUrl": "https://cdn-icons-png.flaticon.com/512/6404/6404558.png"
+    },
+    {
+      "id": "15",
+      "name": "CI/CD",
+      "iconUrl": "https://www.mabl.com/hs-fs/hubfs/CICDBlog.png?width=1072&name=CICDBlog.png"
+    },
+    {
+      "id": "16",
       "name": "Redux",
       "iconUrl": "https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"
     },
     {
-      "id": "5",
+      "id": "17",
       "name": "Node.js",
-      "iconUrl": "https://nodejs.org/static/images/logo.svg",
-      "iconDarkUrl": "https://nodejs.org/static/logos/nodejsDark.svg"
-    },
-    {
-      "id": "6",
-      "name": "GraphQL",
-      "iconUrl": "https://graphql.org/icon.svg"
+      "iconUrl": "https://nodejs.org/static/logos/nodejsDark.svg",
+      "iconDarkUrl": "https://nodejs.org/static/images/logo.svg"
     }
   ],
   "experience": [
@@ -54,12 +103,24 @@
       "role": "Lead React Native Developer",
       "startDate": "09/2024",
       "endDate": "Present",
-      "description": "\n● Served as the end-to-end technical owner for enterprise retail applications, defining architecture and authoring HLD and LLD for mobile and backend services using React Native, Node.js, MongoDB, and Docker.\n● Led technical execution for a cross-functional team of 9 engineers, owning sprint planning, task breakdowns, and delivery timelines while working closely with product managers to align scope, feasibility, and execution.\n● Took ownership of the full production release lifecycle across 100+ stores, including incident response, rollbacks, and hotfixes, while maintaining observability through Firebase Crashlytics and API logging.\n● Standardized core UI libraries and state management patterns, improving render performance by ~25% and reducing feature implementation time by ~30% through consistent architectural decisions and code reviews.\n● Designed and implemented a comprehensive testing strategy using Jest (~80% coverage) and Detox E2E automation, significantly reducing production regressions and improving overall release confidence.\n● Established local quality gates using Husky pre-commit and pre-push hooks to enforce linting and test execution in the absence of centralized CI/CD infrastructure.\n● Designed and implemented backend schemas and RESTful APIs in Node.js, supporting mobile workflows and containerized deployments using Docker.\n● Conducted regular code reviews across mobile and web codebases, mentoring engineers on clean code practices, performance considerations, and TypeScript usage.\n● Partnered with business stakeholders to translate retail workflows and financial KPIs into actionable technical roadmaps, improving delivery predictability and cross-team alignment.\n● Worked directly with store teams to gather feedback, validate workflows, and iteratively refine features to improve usability and adoption.\n",
-      "location": "India",
+      "description": "\n• Served as the end-to-end technical owner for enterprise retail applications, defining architecture and authoring HLD and LLD for mobile and backend services using React Native, Node.js, MongoDB, and Docker.\n• Led technical execution for a cross-functional team of 9 engineers, owning sprint planning, task breakdowns, and delivery timelines while working closely with product managers to align scope, feasibility, and execution.\n• Took ownership of the full production release lifecycle across 100+ stores, including incident response, rollbacks, and hotfixes, while maintaining observability through Firebase Crashlytics and API logging.\n• Standardized core UI libraries and state management patterns, improving render performance by ~25% and reducing feature implementation time by ~30% through consistent architectural decisions and code reviews.\n• Designed and implemented a comprehensive testing strategy using Jest (~80% coverage) and Detox E2E automation, significantly reducing production regressions and improving overall release confidence.\n• Established local quality gates using Husky pre-commit and pre-push hooks to enforce linting and test execution in the absence of centralized CI/CD infrastructure.\n• Designed and implemented backend schemas and RESTful APIs in Node.js, supporting mobile workflows and containerized deployments using Docker.\n• Conducted regular code reviews across mobile and web codebases, mentoring engineers on clean code practices, performance considerations, and TypeScript usage.\n• Partnered with business stakeholders to translate retail workflows and financial KPIs into actionable technical roadmaps, improving delivery predictability and cross-team alignment.\n• Worked directly with store teams to gather feedback, validate workflows, and iteratively refine features to improve usability and adoption.\n",
+      "location": "Bangalore, Karnataka, India",
       "logoUrl": "https://www.vhv.rs/dpng/d/559-5592604_ace-turtle-logo-png-download-ace-turtle-transparent.png",
-      "images": [],
-      "appLink": "",
-      "appIcon": ""
+      "images": [
+        "https://play-lh.googleusercontent.com/DgTRI3FBXBwar0Rkl-AoSH3BB-oLmf6muvYBxcuZryA3df2enELzkgl3IVIr9aQr6DY=w480-h960-rw"
+      ],
+      "apps": [
+        {
+          "id": "at-connect",
+          "name": "Ace Turtle Connect",
+          "icon": "https://play-lh.googleusercontent.com/DgTRI3FBXBwar0Rkl-AoSH3BB-oLmf6muvYBxcuZryA3df2enELzkgl3IVIr9aQr6DY=w480-h960-rw",
+          "category": "Business • Retail",
+          "links": {
+            "android": "https://play.google.com/store/apps/details?id=at.app.connect",
+            "ios": "https://apps.apple.com/in/app/ace-turtle-connect-v2/id6448618854"
+          }
+        }
+      ]
     },
     {
       "id": "2",
@@ -67,12 +128,24 @@
       "role": "Senior Software Developer",
       "startDate": "03/2022",
       "endDate": "08/2024",
-      "description": "\n● Modernized stock trading applications for the Philippines market, architecting the frontend for scalability on a platform designed to support 1M+ users while maintaining stability during high-volatility market events.\n● Led the full-scale migration of the mobile codebase from JavaScript to TypeScript, improving type safety, reducing production bugs by 35%, and streamlining onboarding for new engineers.\n● Contributed to a Python Flask–based data analysis platform to provide users with stock performance insights and growth analytics, expanding the core product\"s capabilities.\n● Resolved critical refresh lags by optimizing Redux middleware and implementing memoization strategies, reducing missed UI updates by 90% for real-time WebSocket data streams.\n● Participated in architectural discussions regarding service configuration and inter-service communication within a microservices environment to ensure seamless integration.\n● Contributed to backend development using Java Spring Boot and PostgreSQL, including designing relational schemas and writing SQL queries for feature-specific data requirements.\n● Owned the end-to-end delivery of high-stakes modules, handling everything from initial design discussions through production releases, rollbacks, and hotfixes.\n● Improved application reliability by introducing targeted unit testing with Jest and identifying performance bottlenecks in critical rendering paths.\n● Mentored junior developers and conducted thorough PR reviews for the mobile and web codebases to maintain high engineering standards and share best practices.\n● Partnered closely with backend engineers to debug production issues and refine RESTful API contracts, ensuring reliable and low-latency data flow for trading operations.",
+      "description": "\n• Modernized stock trading applications for the Philippines market, architecting the frontend for scalability on a platform designed to support 1M+ users while maintaining stability during high-volatility market events.\n• Led the full-scale migration of the mobile codebase from JavaScript to TypeScript, improving type safety, reducing production bugs by 35%, and streamlining onboarding for new engineers.\n• Contributed to a Python Flask–based data analysis platform to provide users with stock performance insights and growth analytics, expanding the core product\"s capabilities.\n• Resolved critical refresh lags by optimizing Redux middleware and implementing memoization strategies, reducing missed UI updates by 90% for real-time WebSocket data streams.\n• Participated in architectural discussions regarding service configuration and inter-service communication within a microservices environment to ensure seamless integration.\n• Contributed to backend development using Java Spring Boot and PostgreSQL, including designing relational schemas and writing SQL queries for feature-specific data requirements.\n• Owned the end-to-end delivery of high-stakes modules, handling everything from initial design discussions through production releases, rollbacks, and hotfixes.\n• Improved application reliability by introducing targeted unit testing with Jest and identifying performance bottlenecks in critical rendering paths.\n• Mentored junior developers and conducted thorough PR reviews for the mobile and web codebases to maintain high engineering standards and share best practices.\n• Partnered closely with backend engineers to debug production issues and refine RESTful API contracts, ensuring reliable and low-latency data flow for trading operations.",
       "location": "India",
       "logoUrl": "https://play-lh.googleusercontent.com/ILMt1VG2G6nR1BXZzK-HewCCHniMCbXGLbqfvKI-L7KWl5mpsFtrpUtlFYKlKGpnAVo",
-      "images": [],
-      "appLink": "",
-      "appIcon": ""
+      "images": [
+        "https://play-lh.googleusercontent.com/ILMt1VG2G6nR1BXZzK-HewCCHniMCbXGLbqfvKI-L7KWl5mpsFtrpUtlFYKlKGpnAVo"
+      ],
+      "apps": [
+        {
+          "id": "luna-trader",
+          "name": "Luna Securities",
+          "icon": "https://play-lh.googleusercontent.com/ILMt1VG2G6nR1BXZzK-HewCCHniMCbXGLbqfvKI-L7KWl5mpsFtrpUtlFYKlKGpnAVo",
+          "category": "Finance • Trading",
+          "links": {
+            "android": "https://play.google.com/store/apps/details?id=com.iq.luna",
+            "ios": "https://apps.apple.com/us/app/luna-securities/id1616137091"
+          }
+        }
+      ]
     },
     {
       "id": "3",
@@ -80,12 +153,35 @@
       "role": "Software Developer",
       "startDate": "12/2020",
       "endDate": "03/2022",
-      "description": "\n● Built and maintained Android and iOS applications across finance, retail, and service domains, helping reduce average project delivery timelines by approximately 15% through reusable component design.\n● Worked on both greenfield and existing enterprise applications, contributing to feature development, enhancements, and long-term maintenance for a diverse client base.\n● Designed efficient data-fetching strategies using GraphQL and REST APIs, optimizing payload sizes for users on low-bandwidth networks to improve application responsiveness.\n● Integrated MongoDB for scalable data management and implemented real-time push notifications to drive user engagement and alerts.\n● Developed social authentication flows (Google, Facebook) using OAuth standards to streamline onboarding and improve user retention.\n● Built and maintained native modules in Kotlin (Android) and Swift (iOS) to integrate advanced charting and platform-specific capabilities within React Native applications.\n● Contributed to bug fixes, production support, and performance tuning, helping reduce issue resolution turnaround time by approximately 20%.\n● Participated actively in Agile ceremonies, peer code reviews, and client demos, contributing to predictable delivery cycles and strong team collaboration.\n",
-      "location": "India",
+      "description": "\n• Built and maintained Android and iOS applications across finance, retail, and service domains, helping reduce average project delivery timelines by approximately 15% through reusable component design.\n• Worked on both greenfield and existing enterprise applications, contributing to feature development, enhancements, and long-term maintenance for a diverse client base.\n• Designed efficient data-fetching strategies using GraphQL and REST APIs, optimizing payload sizes for users on low-bandwidth networks to improve application responsiveness.\n• Integrated MongoDB for scalable data management and implemented real-time push notifications to drive user engagement and alerts.\n• Developed social authentication flows (Google, Facebook) using OAuth standards to streamline onboarding and improve user retention.\n• Built and maintained native modules in Kotlin (Android) and Swift (iOS) to integrate advanced charting and platform-specific capabilities within React Native applications.\n• Contributed to bug fixes, production support, and performance tuning, helping reduce issue resolution turnaround time by approximately 20%.\n• Participated actively in Agile ceremonies, peer code reviews, and client demos, contributing to predictable delivery cycles and strong team collaboration.\n",
+      "location": "Indore, Madhya Pradesh, India",
       "logoUrl": "https://media.instahyre.com/images/profile/base/employer/15864/bd1155eeed/0_1.webp",
-      "images": [],
-      "appLink": "",
-      "appIcon": ""
+      "images": [
+        "https://cdn.faire.com/fastly/a6c819920c6a81325010c47831f1ef2f021dbf0066e7771e2542b36a84c1c66c.jpeg",
+        "https://play-lh.googleusercontent.com/Q3r_7TU3YTnXiSY7MIJVO3zU8irNBVvYz28CFvbmbSIUkZJHhDiNFTX7JaToPx_gZ4fOVwcYCwyKaP3d90dr100"
+      ],
+      "apps": [
+        {
+          "id": "exotic-india",
+          "name": "Exotic India",
+          "icon": "https://play-lh.googleusercontent.com/Ora3-jGHqpT_UCysfZ-xh6osrSCD3IiKootJYjwqGaCA1-C4NY9uSXA0r47g4OxHSiM",
+          "category": "Shopping",
+          "links": {
+            "android": "https://play.google.com/store/apps/details?id=com.exoticindia",
+            "ios": "https://apps.apple.com/us/app/exotic-india-shopping-app/id1564726273"
+          }
+        },
+        {
+          "id": "curve-baseball",
+          "name": "Curve By Baseball Works",
+          "icon": "https://play-lh.googleusercontent.com/Q3r_7TU3YTnXiSY7MIJVO3zU8irNBVvYz28CFvbmbSIUkZJHhDiNFTX7JaToPx_gZ4fOVwcYCwyKaP3d90dr100",
+          "category": "Sports",
+          "links": {
+            "android": "https://play.google.com/store/apps/details?id=com.thefuturesapp.app.diamondallegiance",
+            "ios": "https://apps.apple.com/us/app/curve-sports/id6748918086"
+          }
+        }
+      ]
     },
     {
       "id": "4",
@@ -93,35 +189,52 @@
       "role": "Application Developer",
       "startDate": "12/2020",
       "endDate": "03/2022",
-      "description": "\n● Developed and launched cross-platform mobile applications using React Native and TypeScript, focusing on educational and social media platforms.\n● Built interactive learning modules and management features for a Kids Educational Platform, utilizing Angular for web-based administrative tools.\n● Integrated complex UI systems using Material UI and UI Kitten, ensuring a consistent and accessible user experience across various device types.\n● Collaborated on the implementation of Redux for state management and React Navigation to handle deep-linking and complex user flows in social media environments.\n● Participated in the full development lifecycle, from initial coding to QA testing and bug resolution, ensuring stable initial releases.\n",
-      "location": "India",
+      "description": "\n• Developed and launched cross-platform mobile applications using React Native and TypeScript, focusing on educational and social media platforms.\n• Built interactive learning modules and management features for a Kids Educational Platform, utilizing Angular for web-based administrative tools.\n• Integrated complex UI systems using Material UI and UI Kitten, ensuring a consistent and accessible user experience across various device types.\n• Collaborated on the implementation of Redux for state management and React Navigation to handle deep-linking and complex user flows in social media environments.\n• Participated in the full development lifecycle, from initial coding to QA testing and bug resolution, ensuring stable initial releases.\n",
+      "location": "Indore, Madhya Pradesh, India",
       "logoUrl": "https://dynamic.placementindia.com/recruiter_comp_logo/631260.jpg",
-      "images": [],
-      "appLink": "",
-      "appIcon": ""
+      "images": []
     }
   ],
   "monthlyActivities": [
     {
       "id": "1",
-      "title": "Built an Expo Snack Export Tool",
-      "description": "Automated the process of exporting local React Native projects to Expo Snack, handling aliased imports and file structures.",
-      "imageUrl": "https://images.unsplash.com/photo-1551033406-611cf9a28f67?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "date": "2 weeks ago"
+      "title": "Optimizing CI/CD Processes with Selective Testing",
+      "description": "Successfully migrated 100% of the Luna Securities mobile codebase to TypeScript, reducing production bugs significantly.",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XNk-YZ_PB3bnVNYyQ-j5Iw.png",
+      "link": "https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3",
+      "date": "3 weeks ago"
     },
     {
       "id": "2",
-      "title": "Leading Team of 9 Engineers",
-      "description": "Managing sprint planning and technical architecture for enterprise retail applications at Ace Turtle.",
-      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
-      "date": "1 month ago"
+      "title": "Toon Format",
+      "description": "A compact, human-readable encoding of the JSON data model for LLM prompts.",
+      "imageUrl": "https://toonformat.dev/logo-index-dark.svg",
+      "link": "https://github.com/toon-format/toon",
+      "date": "3 weeks ago"
     },
     {
       "id": "3",
-      "title": "TypeScript Migration Achievement",
-      "description": "Successfully migrated 100% of the Luna Securities mobile codebase to TypeScript, reducing production bugs significantly.",
-      "imageUrl": "https://images.unsplash.com/photo-1516116216624-53e697fedbea?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+      "title": "React Native 0.83 - React 19.2, New DevTools features, no breaking changes",
+      "description": "React 19.2, significant new features for React Native DevTools, and support for the Web Performance and Intersection Observer APIs (Canary). This is also the first React Native release with no user facing breaking changes.",
+      "imageUrl": "https://opengraph.githubassets.com/321481788fcd9414c1d33b3df8993a900322f3457f6dcc10079efd2bc0729542/facebook/react/releases/tag/v19.0.1",
+      "link": "https://reactnative.dev/blog/2025/12/10/react-native-0.83",
       "date": "3 weeks ago"
+    },
+    {
+      "id": "4",
+      "title": "Patch FlightReplyServer with fixes from ReactFlightClient",
+      "description": "Patch FlightReplyServer with fixes from ReactFlightClient",
+      "imageUrl": "https://github.com/fluidicon.png",
+      "link": "https://github.com/facebook/react/pull/35277/commits/e2fd5dc6ad973dd3f220056404d0ae0a8707998d",
+      "date": "3 weeks ago"
+    },
+    {
+      "id": "5",
+      "title": "Critical Security Vulnerability in React Server Components",
+      "description": "There is an unauthenticated remote code execution vulnerability in React Server Components.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+      "link": "https://react.dev/blog/2025/12/03/critical-security-vulnerability-in-react-server-components",
+      "date": "1 month ago"
     }
   ],
   "stories": [
@@ -132,7 +245,7 @@
     },
     {
       "id": "2",
-      "imageUrl": "https://e0.pxfuel.com/wallpapers/746/1012/desktop-wallpaper-made-olympic-swimming.jpg",
+      "imageUrl": "https://e0.pxfuel.com/wallpapers/746/1012/desktop-thumbnail-made-olympic-swimming.jpg",
       "duration": 5000
     },
     {
@@ -143,7 +256,7 @@
   ],
   "dailyUpdate": {
     "id": "1",
-    "text": "working on a new project 🚀",
+    "text": "creating multi-tenant SaaS project 🚀",
     "contextInput": "At Office"
   }
 }
