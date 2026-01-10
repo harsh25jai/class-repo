@@ -3,7 +3,7 @@
     "name": "Harsh Jaiswal",
     "bio": "Senior Software Engineer | React Native Enthusiast ⚛️ | Building scalable apps 🚀",
     "coverPhoto": "https://images.unsplash.com/photo-1557683316-973673baf926?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80",
-    "profilePhoto": "https://avatars.githubusercontent.com/u/1?v=4",
+    "profilePhoto": "https://raw.githubusercontent.com/harsh25jai/class-repo/main/data/harsh-dp.jpeg",
     "livesIn": "Bangalore, Karnataka, India",
     "from": "Indore, Madhya Pradesh, India",
     "worksAt": "Ace Turtle Pvt. Ltd.",
@@ -11,7 +11,8 @@
     "joinedDate": "March 2020",
     "email": "harsh25jai@gmail.com",
     "phone": "+91 777-18-44337",
-    "linkedin": "linkedin.com/in/harshjaiswal"
+    "linkedin": "linkedin.com/in/harshjaiswal",
+    "resume": "https://snack.expo.dev/@harsh.jaiswal/fbresume?platform=ios"
   },
   "skills": [
     {
