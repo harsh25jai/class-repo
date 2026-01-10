@@ -37,7 +37,7 @@
     {
       "id": "5",
       "name": "Python",
-      "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+      "iconUrl": "https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png"
     },
     {
       "id": "6",
@@ -62,12 +62,12 @@
     {
       "id": "11",
       "name": "Xcode",
-      "iconUrl": "https://icon.icepanel.io/Technology/svg/Xcode.svg"
+      "iconUrl": "https://cdn.jim-nielsen.com/macos/1024/xcode-2020-11-11.png"
     },
     {
       "id": "12",
       "name": "Jest",
-      "iconUrl": "https://www.svgrepo.com/show/373701/jest-snapshot.svg"
+      "iconUrl": "https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/jest-js-icon.png"
     },
     {
       "id": "13",
@@ -92,8 +92,8 @@
     {
       "id": "17",
       "name": "Node.js",
-      "iconUrl": "https://nodejs.org/static/logos/nodejsDark.svg",
-      "iconDarkUrl": "https://nodejs.org/static/images/logo.svg"
+      "iconUrl": "https://p7.hiclipart.com/preview/306/37/167/node-js-javascript-web-application-express-js-computer-software-others.jpg",
+      "iconDarkUrl": "https://toppng.com/uploads/preview/js-club-new-balance-png-logo-node-js-logo-white-11563570785xvaemwdb1k.png"
     }
   ],
   "experience": [
@@ -129,7 +129,7 @@
       "startDate": "03/2022",
       "endDate": "08/2024",
       "description": "\n• Modernized stock trading applications for the Philippines market, architecting the frontend for scalability on a platform designed to support 1M+ users while maintaining stability during high-volatility market events.\n• Led the full-scale migration of the mobile codebase from JavaScript to TypeScript, improving type safety, reducing production bugs by 35%, and streamlining onboarding for new engineers.\n• Contributed to a Python Flask–based data analysis platform to provide users with stock performance insights and growth analytics, expanding the core product\"s capabilities.\n• Resolved critical refresh lags by optimizing Redux middleware and implementing memoization strategies, reducing missed UI updates by 90% for real-time WebSocket data streams.\n• Participated in architectural discussions regarding service configuration and inter-service communication within a microservices environment to ensure seamless integration.\n• Contributed to backend development using Java Spring Boot and PostgreSQL, including designing relational schemas and writing SQL queries for feature-specific data requirements.\n• Owned the end-to-end delivery of high-stakes modules, handling everything from initial design discussions through production releases, rollbacks, and hotfixes.\n• Improved application reliability by introducing targeted unit testing with Jest and identifying performance bottlenecks in critical rendering paths.\n• Mentored junior developers and conducted thorough PR reviews for the mobile and web codebases to maintain high engineering standards and share best practices.\n• Partnered closely with backend engineers to debug production issues and refine RESTful API contracts, ensuring reliable and low-latency data flow for trading operations.",
-      "location": "India",
+      "location": "Manilla, National Capital Region, Philippines",
       "logoUrl": "https://play-lh.googleusercontent.com/ILMt1VG2G6nR1BXZzK-HewCCHniMCbXGLbqfvKI-L7KWl5mpsFtrpUtlFYKlKGpnAVo",
       "images": [
         "https://play-lh.googleusercontent.com/ILMt1VG2G6nR1BXZzK-HewCCHniMCbXGLbqfvKI-L7KWl5mpsFtrpUtlFYKlKGpnAVo"
@@ -208,7 +208,7 @@
       "id": "2",
       "title": "Toon Format",
       "description": "A compact, human-readable encoding of the JSON data model for LLM prompts.",
-      "imageUrl": "https://toonformat.dev/logo-index-dark.svg",
+      "imageUrl": "https://avatars.githubusercontent.com/u/241380424",
       "link": "https://github.com/toon-format/toon",
       "date": "3 weeks ago"
     },
@@ -245,7 +245,7 @@
     },
     {
       "id": "2",
-      "imageUrl": "https://e0.pxfuel.com/wallpapers/746/1012/desktop-thumbnail-made-olympic-swimming.jpg",
+      "imageUrl": "https://img.freepik.com/free-photo/young-woman-enjoying-swimming-pool_23-2148700002.jpg?w=2000",
       "duration": 5000
     },
     {
