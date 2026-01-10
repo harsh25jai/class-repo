@@ -9,8 +9,8 @@
     "worksAt": "Ace Turtle Pvt. Ltd.",
     "studiedAt": "Rajiv Gandhi Proudyogiki Vishwavidyalaya",
     "joinedDate": "March 2020",
-    "email": "harsh.jaiswal@example.com",
-    "phone": "+91 7771844337",
+    "email": "harsh25jai@gmail.com",
+    "phone": "+91 777-18-44337",
     "linkedin": "linkedin.com/in/harshjaiswal"
   },
   "skills": [
