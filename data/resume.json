@@ -200,15 +200,23 @@
   ],
   "monthlyActivities": [
     {
-      "id": "1",
+      "id": "6",
+      "title": "Design Patterns for React Native Applications",
+      "description": "Various design patterns that can be applied to React Native applications to improve code organization, maintainability, and scalability.",
+      "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/format:webp/0*rArBAHVGu-XtQQj5",
+      "link": "https://medium.com/@mr.kashif.samman/design-patterns-for-react-native-applications-630e5eb9e34f",
+      "date": "3 weeks ago"
+    },
+    {
+      "id": "5",
       "title": "Optimizing CI/CD Processes with Selective Testing",
-      "description": "Successfully migrated 100% of the Luna Securities mobile codebase to TypeScript, reducing production bugs significantly.",
+      "description": "The Problem: Slow CI with Comprehensive UI Testing",
       "imageUrl": "https://miro.medium.com/v2/resize:fit:1400/format:webp/1*XNk-YZ_PB3bnVNYyQ-j5Iw.png",
       "link": "https://medium.com/agoda-engineering/optimizing-ci-cd-processes-with-selective-testing-f537f9abc9d3",
       "date": "3 weeks ago"
     },
     {
-      "id": "2",
+      "id": "4",
       "title": "Toon Format",
       "description": "A compact, human-readable encoding of the JSON data model for LLM prompts.",
       "imageUrl": "https://avatars.githubusercontent.com/u/241380424",
@@ -224,7 +232,7 @@
       "date": "3 weeks ago"
     },
     {
-      "id": "4",
+      "id": "2",
       "title": "Patch FlightReplyServer with fixes from ReactFlightClient",
       "description": "Patch FlightReplyServer with fixes from ReactFlightClient",
       "imageUrl": "https://github.com/fluidicon.png",
@@ -232,7 +240,7 @@
       "date": "3 weeks ago"
     },
     {
-      "id": "5",
+      "id": "1",
       "title": "Critical Security Vulnerability in React Server Components",
       "description": "There is an unauthenticated remote code execution vulnerability in React Server Components.",
       "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
