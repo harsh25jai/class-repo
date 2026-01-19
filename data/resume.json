@@ -200,14 +200,6 @@
   ],
   "monthlyActivities": [
     {
-      "id": "7",
-      "title": "rnsec - Security Scanner for React Native",
-      "description": "Detect vulnerabilities, hardcoded secrets, and security misconfigurations before they reach production.",
-      "imageUrl": "https://raw.githubusercontent.com/harsh25jai/class-repo/main/data/rnsec.png",
-      "link": "https://github.com/adnxy/rnsec",
-      "date": "1 weeks ago"
-    },
-    {
       "id": "6",
       "title": "Design Patterns for React Native Applications",
       "description": "Various design patterns that can be applied to React Native applications to improve code organization, maintainability, and scalability.",
